@@ -1,5 +1,5 @@
 # CTF
-CTF Tools
+#CTF Tools
 
 This repository is a place where I want to keep all the useful resources/websites/tools to solve CTF challenges. All the tools will be divided by category, in order to have a better organization.
 
@@ -15,7 +15,7 @@ Training 🚩
     overthewire
     pwnable
 
-General 📋
+#General 📋
 Tools
 
     John Hammond - Katana: huge repo of very useful CTF tools, thank you John, my repo now looks useless
@@ -29,11 +29,11 @@ Tools
     Morse Code Translator
     Dual Tone Decoder: find DTMF tones within audio clips
 
-Resources
+#Resources
 
     ASCII Table
 
-Cryptography 🔒
+#Cryptography 🔒
 Tools
 
     dCode: crypto heaven
@@ -52,13 +52,13 @@ Tools
     Online Hash Crack: big website to perform hash/pwd cracking and identification on various files
     Hash Identifier: Linux tool to perform hash identification
 
-Resources
+#Resources
 
     gmpy2: Python library for multiple-precision arithmetic
     Weird Ciphers: a list of some strange cryptography algorithms
     Symbolic Ciphers: another list of strange cryptography algorithms
 
-Steganography 🎨
+#Steganography 🎨
 Tools
 
     Aperi'Solve: one of the best online tools, with static analysis and also running zsteg, steghide, exiftool, binwalk, foremost, ..
@@ -73,7 +73,7 @@ Resources
     steghide: manual website of the Steghide tool
     zsteg: Ruby tool for steganography purposes
 
-Web 🕸️
+###Web 🕸️
 Tools
 
     CSP Evaluator: Google CSP evaluator with bypass possibilities
@@ -87,7 +87,7 @@ Resources
     JSONP Endpoints: list of well-known JSONP Endpoints
     Web Payloads: list of Web Payloads of various techniques
 
-Pwn 🐛
+#Pwn 🐛
 Tools
 
     Syscall Reference: x86 / x64 syscalls manual with registers value
@@ -103,14 +103,14 @@ Tools
     Foremost: file recovery tool based on their magic bytes, headers, ..
 
 Resources
-OSINT 🌐
+#OSINT 🌐
 
     Mail from LinkedIn: Chrome extension to find email addresses from Linkedin page
     Wayback Machine: webpage archive at a certain time
     Sherlock: hunt down social media accounts by username
     Email lookup: tool to retrieve information linked to an email address
 
-Reversing ↩️
+##Reversing ↩️
 Tools
 
     Online Decompiler: online tool to decompile Java classes, APKs,...
